@@ -19,3 +19,10 @@ A simple gym website.
   <li> Signup page</li>
   <li> Sign in page</li>
 </ul>
+
+<h3> Images</h3>
+
+<img src = "./html/css/images/Screenshot 2023-07-21 14.31.19.png"/>
+<img src = "./html/css/images/Screenshot 2023-07-21 14.31.31.png" />
+<img src = "./html/css/images/Screenshot 2023-07-21 14.24.38.png" />
+<img src = "./html/css/images/Screenshot 2023-07-21 14.24.49.png" />
